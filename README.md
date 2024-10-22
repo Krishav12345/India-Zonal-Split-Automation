@@ -6,9 +6,9 @@ This project aims to [briefly explain what the project does, its goals, and its 
 ## Technologies Used
 - **Programming Language:** Python
 - **GIS Tools:** QGIS, ArcGIS
-- **Libraries:** [List any libraries or frameworks you used, e.g., Pandas, NumPy, etc.]
-- **Database:** [Mention any databases used, if applicable.]
-- **Others:** [Any other technologies, tools, or software that are relevant.]
+- **Libraries:** List any libraries or frameworks you used, e.g., Pandas, NumPy, etc.
+  
+The Multi-Value Input Clipping Tool is designed to streamline the process of clipping spatial datasets based on multiple input values. This tool enables users to efficiently manage and analyze large datasets by selecting specific features for targeted analysis.
 
 ## How to Run Your Code
 1. **Clone the Repository**
